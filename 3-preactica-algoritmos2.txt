@@ -1,0 +1,23 @@
+Problematica
+"El usuario quiere saber cual es el area de circulo teniendo el radio"
+
+Algoritmo
+1. "Solicitar al usuario que ingrese el radio"
+2. "Calcular el area del circulo utilizando la formula area= Ò * radio^2"
+3. "Mostrar el area calculada al usuario"
+
+
+Pseudocodigo
+
+Inicio
+    # Paso 1 Solicitar al usuario que ingre el radio del circulo.
+    Mostrar mensaje: "Por favor, ingrese el radio del circulo:  "
+    Leer el dato ingresado y asignarlo a variable radio
+
+    # Paso 2: Calcular el area del circulo utilizando la formula area= Ò * radio^2
+    Definir y asignar a la variable area el resultado de Ò * radio^2
+
+    # Paso 3: Mostrar al usuario el area calculada
+    Mostrar mensaje: "El area del circulo con radio", radio; "es:", area
+Fin
+

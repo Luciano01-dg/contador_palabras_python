@@ -10,7 +10,7 @@ Pseudocodigo:
 
 Inicio del programa
     // Paso 1: Solicitar entrada al usuario
-    Mostrar mensaje: "por favor, ingrese una palabra: "
+    Mostrar mensaje: "Por favor, ingrese una palabra: "
     Definir variable palabra_ingresada en la lectura de la entrada
 
     // Paso 2: Contar la cantidad de letras
