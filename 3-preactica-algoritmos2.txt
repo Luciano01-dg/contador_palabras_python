@@ -12,8 +12,8 @@ Pseudocodigo
 Inicio
     # Paso 1 Solicitar al usuario que ingre el radio del circulo.
     Mostrar mensaje: "Por favor, ingrese el radio del circulo:  "
-    Leer el dato ingresado y asignarlo a variable radio
-
+    Leer el dato ingresado y asignarlo a variable radio de tipo flotante
+ 
     # Paso 2: Calcular el area del circulo utilizando la formula area= Ò * radio^2
     Definir y asignar a la variable area el resultado de Ò * radio^2
 
